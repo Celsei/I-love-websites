@@ -5,8 +5,6 @@ git co
 echo "# I-love-websites" >> README.md
 git init
 git add README.md
-git co
-echo "# I-love-websites" >> README.md
-git init
+
 git add README.md
 git co
